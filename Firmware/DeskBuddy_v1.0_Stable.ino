@@ -126,12 +126,12 @@ struct Config {
 
 Config config = {
   // ---------- OpenWeather ----------
-  "5764755d3ff40eb01e9f156f02d1dc09",
-  "Bengaluru",
+  "your_key",
+  "city",
   "metric",
 
   // ---------- MQTT ----------
-  "adb3db2394804d66ac242acd9d202d3b.s1.eu.hivemq.cloud",
+  "...",
   8883,
   "",
   "",
