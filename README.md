@@ -1,3 +1,5 @@
+> **DeskBuddy v2 is out.** A full rebuild on ESP32 with FreeRTOS and a native Android app: [MONKEYDPARI019/DeskBuddy-v2](https://github.com/MONKEYDPARI019/DeskBuddy-v2). This repository is the original **v1 (ESP8266)**, kept as it was.
+
 <p align="center">
   <img src="docs/assets/banner.png" alt="DeskBuddy banner" width="800">
 </p>
